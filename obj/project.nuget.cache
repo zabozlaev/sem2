@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuINYeQN8Ej0Mtx00gac4NyF0ESpwVjelwk5BiTmc7LScx2k3QgUAJsHKobgMR4QUZz8aNOY0uf5T0IDYpdUdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zabozlaev\\Desktop\\Sem 2\\Sem 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zabozlaev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\zabozlaev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\zabozlaev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\zabozlaev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

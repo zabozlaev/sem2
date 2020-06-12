@@ -1,0 +1,13 @@
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.exe
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.deps.json
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.runtimeconfig.json
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.runtimeconfig.dev.json
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.dll
+C:\Users\zabozlaev\Desktop\Sem 2\bin\Debug\netcoreapp3.0\Sem 2.pdb
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.csprojAssemblyReference.cache
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.csproj.CoreCompileInputs.cache
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.AssemblyInfoInputs.cache
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.AssemblyInfo.cs
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.dll
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.pdb
+C:\Users\zabozlaev\Desktop\Sem 2\obj\Debug\netcoreapp3.0\Sem 2.genruntimeconfig.cache

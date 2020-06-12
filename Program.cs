@@ -12,6 +12,7 @@ namespace Sem_2
       var ds = new DataStore();
       var fileName = @"./result.txt";
       StreamWriter sw = new StreamWriter(fileName);
+      ds.CreateInputs();
       for (var i = 1; i < 500; i++)
       {
         var arr = ds.GetInputs(i);

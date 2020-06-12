@@ -15,11 +15,11 @@ namespace Sem_2
       this.next = null;
     }
   }
-  public class SinglyLinkedList
+  public class LinkedList
   {
     public int iterations;
     public Node head;
-    public SinglyLinkedList()
+    public LinkedList()
     {
       this.iterations = 0;
       this.head = null;
@@ -33,11 +33,11 @@ namespace Sem_2
         return;
       }
 
-      Node curr = head;
+      var curr = head;
       while (curr.next != null)
         curr = curr.next;
 
-      Node newNode = new Node(data);
+      var newNode = new Node(data);
       curr.next = newNode;
     }
 
@@ -57,11 +57,11 @@ namespace Sem_2
       start == null || end == null)
         return start;
 
-      Node pivot_prev = start;
-      Node curr = start;
+      var pivot_prev = start;
+      var curr = start;
       int pivot = end.data;
 
-      int temp;
+      var temp = 0;
       while (start != end)
       {
 
@@ -88,16 +88,16 @@ namespace Sem_2
       if (start == end)
         return;
 
-      Node pivot_prev = ParitionLast(start, end);
-      Sort(start, pivot_prev);
+      var prev = ParitionLast(start, end);
+      Sort(start, prev);
 
-      if (pivot_prev != null &&
-          pivot_prev == start)
-        Sort(pivot_prev.next, end);
+      if (prev != null &&
+          prev == start)
+        Sort(prev.next, end);
 
-      else if (pivot_prev != null &&
-              pivot_prev.next != null)
-        Sort(pivot_prev.next.next, end);
+      else if (prev != null &&
+              prev.next != null)
+        Sort(prev.next.next, end);
     }
   }
 }
